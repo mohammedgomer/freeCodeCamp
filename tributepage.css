@@ -1,4 +1,32 @@
+body {
+  font-family: 'Roboto';
+    border-color: #7233c0;
+    border-style: groove;
+    border-width: 8px;
+    border-radius: 10px;
+}
 
-h1 {
-    color: red;
+
+main {
+    text-align: center;
+}
+
+.container {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+   /* margin: 10px 35px 3000px 35px;*/
+    
+}
+
+.container2 {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    margin: 250px;
+}
+
+#img-div {
+position: relative;
+float: right;
 }
