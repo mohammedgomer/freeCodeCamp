@@ -1,32 +1,33 @@
 body {
   font-family: 'Roboto';
-    border-color: #7233c0;
-    border-style: groove;
-    border-width: 8px;
-    border-radius: 10px;
-}
+} 
 
-
-main {
+#main {
     text-align: center;
-}
-
-.container {
-    border-style: solid;
-    border-color: black;
-    border-width: 3px;
-   /* margin: 10px 35px 3000px 35px;*/
+     background-color: #add8e6;
+    position: relative;
     
 }
 
-.container2 {
-    border-style: solid;
-    border-color: black;
-    border-width: 3px;
-    margin: 250px;
+#hall-of-famer-heading {
+text-align: center;
 }
 
 #img-div {
-position: relative;
-float: right;
+   text-align: center;
+   width: 100%; 
+   height: auto;
+}
+
+#tribute-info {
+   
+    margin: 0 auto;
+}
+
+#achievements {
+text-align: center;
+}
+
+li {
+    margin: 10px;
 }
